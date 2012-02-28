@@ -1,1 +1,5 @@
 ě 2
+git config --global core.editor "'C:/Program Files (x86)/_Editory/PSPad/PSPad.exe' '%*'"
+
+http://stackoverflow.com/questions/750172/how-do-i-change-the-author-of-a-commit-in-git
+
